@@ -116,13 +116,5 @@
 * Admin panel → Asynq Dashboard orqali jobs monitoring.
 * Retry, delay, priority qo‘llaniladi.
 
-⏳ Kun oxirida → **to‘liq ishlaydigan background job + email + queue integratsiyasi** bo‘ladi.
 
----
-
-✅ Shu rejada sen **RabbitMQ**ga alohida kun ajratilgan (3-kun).
-✅ Har kuni nazariya → amaliy → mini project bilan tugaydi.
-✅ 6-kuni esa **hamma narsani jamlab katta loyiha** qilasan.
-
----
 
